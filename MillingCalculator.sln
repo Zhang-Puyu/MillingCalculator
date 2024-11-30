@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MillingCalculator", "MillingCalculator\MillingCalculator.vcxproj", "{FDA82E6D-985F-48C6-B3B4-9E4433FFACB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA82E6D-985F-48C6-B3B4-9E4433FFACB7}.Debug|x64.ActiveCfg = Debug|x64
+		{FDA82E6D-985F-48C6-B3B4-9E4433FFACB7}.Debug|x64.Build.0 = Debug|x64
+		{FDA82E6D-985F-48C6-B3B4-9E4433FFACB7}.Release|x64.ActiveCfg = Release|x64
+		{FDA82E6D-985F-48C6-B3B4-9E4433FFACB7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91C04C9-BB38-4F84-8CAD-583BBB41DA27}
+	EndGlobalSection
+EndGlobal

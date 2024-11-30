@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>formula.png</file>
+        <file>update.png</file>
+    </qresource>
+</RCC>
