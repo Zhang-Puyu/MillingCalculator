@@ -164,15 +164,15 @@
        <item>
         <widget class="QLabel" name="labelFomula">
          <property name="sizePolicy">
-          <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
            <horstretch>0</horstretch>
            <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
           <size>
-           <width>220</width>
-           <height>58</height>
+           <width>180</width>
+           <height>90</height>
           </size>
          </property>
          <property name="text">
