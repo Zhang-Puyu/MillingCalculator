@@ -41,7 +41,7 @@ MainWindow::MainWindow(QWidget *parent)
 			QMessageBox::critical(this, tr("错误"), tr("r角必须小于刀具半径"));
 		}
         else
-            ui->statusBar->showMessage(tr("环形刀/球头刀等效直径：")+ QString::number(D(), 'f', 2));
+            ui->statusBar->showMessage(tr("环形刀/球头刀等效直径：") + QString::number(D(), 'f', 2));
 		});
     connect(ui->height, &QDoubleSpinBox::editingFinished, [=]() {
             ui->statusBar->showMessage(tr("环形刀/球头刀等效直径：") + QString::number(D(), 'f', 2));
